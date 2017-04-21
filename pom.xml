@@ -8,7 +8,7 @@
     <artifactId>fintime-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <modules>
-        <module>core</module>
+        <module>fintime-core</module>
     </modules>
     <packaging>pom</packaging>
     <name>FinTime Factory Business Parent</name>

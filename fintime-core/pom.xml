@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>core</artifactId>
+    <artifactId>fintime-core</artifactId>
     <packaging>jar</packaging>
     <name>FinTime Factory Core Business</name>
 
